@@ -3,7 +3,7 @@
 
 An end to end Data Science project on Credit Card fraud detection system using machine learning algorithms
 
-![](https://octodex.github.com/fintechtocat/)
+-[ML App Link](https://creditcardfrauddetectionpp.herokuapp.com/#credit-card-fraud-detection)
 ## Acknowledgements
 
  - [Kaggle Dataset](https://www.kaggle.com/ealaxi/paysim1)
