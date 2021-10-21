@@ -42,7 +42,7 @@ PaySim simulates mobile money transactions based on a sample of real transaction
 
 6. The biggest problem is faced was handling the overfitting. Choosing between the resampling techniques both Oversampling and undersampling was a bit of a challenge. Finally I selected RandomUnderSampling as it did not show overfitted results. 
 
-7.Working with such a large dataset is always a challenge and this helped me learn a lot .
+7. Working with such a large dataset is always a challenge and this helped me learn a lot .
   
 ## Screenshots
 
