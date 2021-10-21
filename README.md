@@ -32,9 +32,6 @@ PaySim simulates mobile money transactions based on a sample of real transaction
 # Conclusion
 1. The dataset is huge with over million data points, and the ratio of fraud to valid data is heavily skewed towads valid data.
 
-Random Forest Classifier is the best model in the given situation as it is fairly accurate in predicting both fraud and valid data, and has the heigest AUC .
-Working with such a large dataset is always a challenge and this helped me learn a lot .
-
 2. Feature engineering and creation of two new features namely 'errorbalance' and 'HourofDay' yielded fruitful results.
 
 3. I used undersampling as I have huge data and undersampling the majority call won't effect the data.
@@ -45,7 +42,7 @@ Working with such a large dataset is always a challenge and this helped me learn
 
 6. The biggest problem is faced was handling the overfitting. Choosing between the resampling techniques both Oversampling and undersampling was a bit of a challenge. Finally I selected RandomUnderSampling as it did not show overfitted results. 
 
-
+7.Working with such a large dataset is always a challenge and this helped me learn a lot .
   
 ## Screenshots
 
