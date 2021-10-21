@@ -42,9 +42,7 @@ Working with such a large dataset is always a challenge and this helped me learn
 5. The best model was Random Forest Classifier and performed GridSearchCV to determine the best parameters.
 
 6. The biggest problem is faced was handling the overfitting. Choosing between the resampling techniques both Oversampling and undersampling was a bit of a challenge. Finally I selected RandomUnderSampling as it did not show overfitted results. 
-## Feedback
 
-If you have any feedback, please reach out to me at pritampaul360@gmail.com
 
   
 ## Screenshots
@@ -54,3 +52,9 @@ If you have any feedback, please reach out to me at pritampaul360@gmail.com
 ![](images/4Capture.PNG)
 ![](images/5Capture.PNG)
 ![](images/6Capture.PNG)  
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at pritampaul360@gmail.com
